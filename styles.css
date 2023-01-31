@@ -1,4 +1,8 @@
 label{
 	margin-top: 50px;
 }
+button{
+	border: none;
+	box-shadow: 2px 2px gray;
+}
 /* Your CSS Code here. */
